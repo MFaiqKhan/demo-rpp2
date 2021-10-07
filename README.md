@@ -26,3 +26,4 @@ actually 'remote' means not in this repository. You can just create a different 
 then we push it with the same command we wrote above remote. 
 then it will be pushed there.
 
+git pull
