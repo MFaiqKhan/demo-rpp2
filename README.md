@@ -26,4 +26,6 @@ actually 'remote' means not in this repository. You can just create a different 
 then we push it with the same command we wrote above remote. 
 then it will be pushed there.
 
-git pull
+'git pull (url of the repo need to be pulled in local folder) '  . let's say I actually edited the readme in github manually but now the local repo saved in my computer 
+hasn't been changed means the effect didn't took place. The text I wrote will not appear or will not update after I edited in the repo github manually so,
+we play this command in order to update the local repo
